@@ -1,0 +1,434 @@
+﻿position;club;country;country1;2018;2019;2020;2021;2022;total
+1;Bayern München;Germany;Ger;29000;20000;36000;27000;26000;138000
+2;Manchester City;England;Eng;22000;25000;25000;35000;25000;132000
+3;Liverpool;England;Eng;30000;29000;18000;24000;28000;129000
+4;Chelsea;England;Eng;18000;30000;17000;33000;25000;123000
+5;Real Madrid;Spain;Esp;32000;19000;17000;26000;25000;119000
+6;FC Barcelona;Spain;Esp;25000;30000;24000;20000;15000;114000
+7;Paris Saint-Germain;France;Fra;19000;19000;31000;24000;19000;112000
+8;Juventus;Italy;Ita;23000;21000;22000;21000;20000;107000
+9;Atlético Madrid;Spain;Esp;28000;20000;22000;16000;19000;105000
+10;Manchester United;England;Eng;20000;19000;22000;26000;18000;105000
+11;AS Roma;Italy;Ita;25000;17000;11000;24000;17000;94000
+12;Sevilla;Spain;Esp;21000;13000;26000;19000;12000;91000
+13;Tottenham Hotspur;England;Eng;21000;26000;16000;15000;5000;83000
+14;Ajax;Netherlands;Ned;1500;27000;13000;19000;22000;82500
+15;RB Leipzig;Germany;Ger;17000;5000;27000;17000;15000;81000
+16;FC Porto;Portugal;Por;17000;23000;7000;23000;10000;80000
+17;Arsenal;England;Eng;21000;26000;10000;23000;0;80000
+18;Villarreal;Spain;Esp;8000;16000;0;30000;24000;78000
+19;Borussia Dortmund;Germany;Ger;10000;18000;18000;22000;10000;78000
+20;Olympique Lyon;France;Fra;14000;17000;23000;0;21000;75000
+21;FC Salzburg;Austria;Aut;21000;16000;10000;7000;17000;71000
+22;Shakhtar Donetsk;Ukraine;Ukr;19000;10000;22000;14000;6000;71000
+23;Internazionale;Italy;Ita;0;15000;25000;9000;18000;67000
+24;Atalanta;Italy;Ita;11000;2500;20000;17000;16000;66500
+25;Napoli;Italy;Ita;10000;18000;19000;10000;9000;66000
+26;Benfica;Portugal;Por;4000;17000;10000;10000;20000;61000
+27;Sporting CP Lisbon;Portugal;Por;17000;10000;10000;2500;16000;55500
+28;Eintracht Frankfurt;Germany;Ger;0;24000;9000;0;22000;55000
+29;FC Basel;Switzerland;Sui;19000;2500;19000;2500;12000;55000
+30;Bayer Leverkusen;Germany;Ger;0;11000;18000;10000;14000;53000
+31;Lazio;Italy;Ita;17000;6000;4000;17000;9000;53000
+32;Slavia Praha;Czech Republic;Cze;6000;14000;6000;16000;10000;52000
+33;Dinamo Zagreb;Croatia;Cro;1500;14000;8000;17000;9000;49500
+34;Glasgow Rangers;Scotland;Sco;250;5000;11000;15000;15000;46250
+35;Sporting Braga;Portugal;Por;9000;2000;10000;9000;16000;46000
+36;Red Star Belgrade;Serbia;Srb;8000;7000;6000;10000;15000;46000
+37;Zenit St. Petersburg;Russia;Rus;14000;10000;9000;5000;8000;46000
+38;Dinamo Kiev;Ukraine;Ukr;12000;11000;6000;10000;5000;44000
+39;Olympique Marseille;France;Fra;19000;3000;0;6000;15000;43000
+40;Olympiakos Piraeus;Greece;Gre;5000;8000;10000;10000;8000;41000
+41;FC København;Denmark;Den;7000;4000;14000;2500;13000;40500
+42;Valencia;Spain;Esp;0;23000;17000;0;0;40000
+43;Club Brugge;Belgium;Bel;1500;11000;8000;11000;7000;38500
+44;AC Milan;Italy;Ita;12000;7000;0;12000;7000;38000
+45;Young Boys;Switzerland;Sui;5000;7000;6000;11000;8000;37000
+46;Feyenoord;Netherlands;Ned;6000;2000;4000;4000;20000;36000
+47;LASK;Austria;Aut;0;2000;12000;7000;15000;36000
+48;Lokomotiv Moscow;Russia;Rus;12000;6000;6000;7000;3000;34000
+49;Stade Rennais;France;Fra;0;11000;3000;5000;14000;33000
+50;PSV Eindhoven;Netherlands;Ned;1000;6000;6000;10000;10000;33000
+51;Celtic;Scotland;Sco;8000;6000;10000;3000;6000;33000
+52;Besiktas;Turkey;Tur;19000;5000;3000;2000;4000;33000
+53;CSKA Moscow;Russia;Rus;17000;9000;4000;3000;0;33000
+54;Galatasaray;Turkey;Tur;500;8000;6000;2500;15000;32000
+55;Viktoria Plzen;Czech Republic;Cze;13000;11000;2000;2500;2500;31000
+56;Lille OSC;France;Fra;0;0;5000;8000;17000;30000
+57;Spartak Moscow;Russia;Rus;11000;4000;2500;0;12000;29500
+58;AZ Alkmaar;Netherlands;Ned;0;1500;8000;6000;13000;28500
+59;AA Gent;Belgium;Bel;1000;2500;10000;3000;11000;27500
+60;FK Krasnodar;Russia;Rus;1500;11000;6000;8000;0;26500
+61;AS Monaco;France;Fra;6000;5000;0;0;15000;26000
+62;Real Sociedad;Spain;Esp;9000;0;0;8000;9000;26000
+63;PAOK Thessaloniki;Greece;Gre;1500;3000;2500;5000;13000;25000
+64;Qarabag FK;Azerbaijan;Azb;6000;3000;4000;3000;9000;25000
+65;Istanbul Basaksehir;Turkey;Tur;6000;2000;11000;6000;0;25000
+66;Maccabi Tel-Aviv;Israel;Isr;3000;2500;2000;8000;9000;24500
+67;Partizan Belgrade;Serbia;Srb;7000;2500;6000;2000;7000;24500
+68;Malmö FF;Sweden;Swe;1000;7000;8000;2500;5000;23500
+69;Ludogorets Razgrad;Bulgaria;Bul;7000;4000;6000;3000;3000;23000
+70;1899 Hoffenheim;Germany;Ger;4000;7000;0;12000;0;23000
+71;Sheriff Tiraspol;Moldova;Mol;7000;2500;2000;2000;9000;22500
+72;VfL Wolfsburg;Germany;Ger;0;0;12000;2500;8000;22500
+73;Leicester City;England;Eng;0;0;0;10000;12000;22000
+74;West Ham United;England;Eng;0;0;0;0;21000;21000
+75;Wolverhampton Wanderers;England;Eng;0;0;16000;0;0;16000
+76;Burnley FC;England;Eng;0;2500;0;0;0;2500
+77;Everton;England;Eng;3000;0;0;0;0;3000
+78;Real Betis;Spain;Esp;0;10000;0;0;11000;21000
+79;Borussia Mönchengladbach;Germany;Ger;0;0;6000;15000;0;21000
+80;FK Astana;Kazakhstan;Kaz;8000;6000;3000;1500;2000;20500
+81;AEK Athens;Greece;Gre;9000;4000;2500;3000;1500;20000
+82;CFR Cluj;Romania;Rom;0;2500;10000;4000;3000;19500
+83;Granada CF;Spain;Esp;0;0;0;13000;0;13000
+84;Getafe;Spain;Esp;0;0;11000;0;0;11000
+85;Espanyol;Spain;Esp;0;0;10000;0;0;10000
+86;Athletic Bilbao;Spain;Esp;10000;0;0;0;0;10000
+87;FC Midtjylland;Denmark;Den;1500;2500;2000;6000;7000;19000
+88;Molde FK;Norway;Nor;0;2500;2500;12000;2000;19000
+89;Zorya Luhansk;Ukraine;Ukr;4000;2500;2500;4000;5000;18000
+90;Racing Genk;Belgium;Bel;0;9000;5000;0;4000;18000
+91;APOEL Nicosia;Cyprus;Cyp;6000;2500;7000;2500;0;18000
+92;FCSB;Romania;Rom;9000;2500;2500;2000;1500;17500
+93;BATE Borisov;Belarus;Bls;4000;8000;2500;1500;1500;17500
+94;Bodø/Glimt;Norway;Nor;0;0;0;2000;15000;17000
+95;Schalke 04;Germany;Ger;0;17000;0;0;0;17000
+96;Rapid Wien;Austria;Aut;0;7000;0;5000;4000;16000
+97;Standard Liège;Belgium;Bel;0;7000;6000;3000;0;16000
+98;Ferencváros;Hungary;Hun;500;1000;6000;5000;3000;15500
+99;Torino;Italy;Ita;0;0;2500;0;0;2500
+100;Vitesse Arnhem;Netherlands;Ned;4000;2000;0;0;9000;15000
+101;NK Rijeka;Croatia;Cro;5000;2000;2500;3000;2500;15000
+102;Rosenborg BK;Norway;Nor;4000;3000;3000;2500;2500;15000
+103;Union Berlin;Germany;Ger;0;0;0;0;5000;5000
+104;1.FC Köln;Germany;Ger;4000;0;0;0;0;4000
+105;Hertha BSC;Germany;Ger;4000;0;0;0;0;4000
+106;SC Freiburg;Germany;Ger;1000;0;0;0;0;1000
+107;Fenerbahçe;Turkey;Tur;1500;8000;0;0;5000;14500
+108;Royal Antwerp;Belgium;Bel;0;0;2500;8000;4000;14500
+109;Hapoel Beer-Sheva;Israel;Isr;3000;2000;2500;4000;2500;14000
+110;Apollon Limassol;Cyprus;Cyp;3000;5000;2500;2000;1500;14000
+111;NK Maribor;Slovakia;Slo;7000;2000;2500;1000;1500;14000
+112;Sparta Praha;Czech Republic;Cze;1000;1500;2000;4000;5000;13500
+113;Slovan Bratislava;Slovakia;Svk;500;2000;3000;1500;6000;13000
+114;Legia Warsaw;Poland;Pol;1500;2000;2500;2500;4000;12500
+115;FK Jablonec;Czech Republic;Cze;0;4000;1500;1500;5000;12000
+116;OGC Nice;France;Fra;6000;0;0;3000;0;9000
+117;Stade de Reims;France;Fra;0;0;0;2000;0;2000
+118;AS Saint-Étienne;France;Fra;0;0;4000;0;0;4000
+119;RC Strasbourg;France;Fra;0;0;2500;0;0;2500
+120;Girondins Bordeaux;France;Fra;1000;5000;0;0;0;6000
+121;Anderlecht;Belgium;Bel;6000;3000;0;0;2500;11500
+122;FC Fehérvár;Hungary;Hun;1500;5000;1500;2500;1000;11500
+123;Wolfsberger AC;Austria;Aut;0;0;4000;7000;0;11000
+124;CD Santa Clara;Portugal;Por;0;0;0;0;2500;2500
+125;Paços de Ferreira;Portugal;Por;0;0;0;0;2500;2500
+126;Rio Ave;Portugal;Por;0;1500;0;2500;0;4000
+127;Vitória Guimarães;Portugal;Por;4000;0;4000;0;0;8000
+128;Maritimo Funchal;Portugal;Por;1500;0;0;0;0;1500
+129;CSKA Sofia;Bulgaria;Bul;0;2000;2000;4000;2500;10500
+130;Suduva Marijampole;Lithuania;Lit;1500;2500;2500;2000;1500;10000
+131;Östersunds FK;Sweden;Swe;10000;0;0;0;0;10000
+132;Flora Tallinn;Estonia;Est;250;1500;1500;2500;4000;9750
+133;Willem II Tilburg;Netherlands;Ned;0;0;0;2000;0;2000
+134;FC Utrecht;Netherlands;Ned;1500;0;1500;0;0;3000
+135;Dundalk;Ireland;Irl;1000;1500;2000;3000;2000;9500
+136;Aberdeen;Scotland;Sco;1000;1500;2000;2000;2500;9000
+137;Shkendija Tetovo;Macedonia;Mac;1500;2500;1500;2000;1500;9000
+138;FC Lugano;Switzerland;Sui;6000;0;3000;0;0;9000
+139;HJK Helsinki;Finland;Fin;500;2000;2000;0;4000;8500
+140;Brøndby IF;Denmark;Den;1000;2500;2000;0;3000;8500
+141;The New Saints;Wales;Wal;1000;2000;2000;1500;2000;8500
+142;Spartak Trnava;Slovakia;Svk;0;5000;1500;0;2000;8500
+143;F91 Dudelange;Luxembourg;Lux;1000;3000;3000;0;1500;8500
+144;Anorthosis Famagusta;Cyprus;Cyp;0;1000;0;2000;5000;8000
+145;Riga FC;Latvia;Lat;0;1000;2500;2000;2500;8000
+146;Kairat Almaty;Kazakhstan;Kaz;500;2000;1500;1500;2500;8000
+147;Zalgiris Vilnius;Lithuania;Lit;1000;2000;1000;1500;2500;8000
+148;Alashkert FC;Armenia;Arm;1000;2000;1500;1000;2500;8000
+149;NK Osijek;Croatia;Cro;1500;1500;1500;1500;2000;8000
+150;Hajduk Split;Croatia;Cro;1500;2000;1000;2000;1500;8000
+151;Sturm Graz;Austria;Aut;1000;2000;1500;0;3000;7500
+152;Austria Wien;Austria;Aut;4000;0;2000;0;1500;7500
+153;TSV Hartberg;Austria;Aut;0;0;0;1500;0;1500
+154;Admira Wacker;Austria;Aut;0;1500;0;0;0;1500
+155;SCR Altach;Austria;Aut;1500;0;0;0;0;1500
+156;Olimpija Ljubljana;Slovakia;Slo;250;2500;1500;1500;2000;7750
+157;KuPS Kuopio;Finland;Fin;0;1000;1500;2500;2500;7500
+158;CS Fola Esch;Luxembourg;Lux;1000;1500;1000;1500;2500;7500
+159;Universitatea Craiova;Romania;Rom;1000;2000;2000;1000;1500;7500
+160;AEK Larnaca;Cyprus;Cyp;1500;4000;2000;0;0;7500
+161;Lincoln Red Imps;Gibraltar;Gib;250;1500;1500;1500;2500;7250
+162;FK Sarajevo;Bosnia-Herzegovina;Bos;250;1500;2000;2500;1000;7250
+163;St. Johnstone;Scotland;Sco;250;0;0;0;2500;2750
+164;Hibernian;Scotland;Sco;0;2000;0;0;2000;4000
+165;Motherwell;Scotland;Sco;0;0;0;2000;0;2000
+166;Kilmarnock;Scotland;Sco;0;0;1000;0;0;1000
+167;Randers FC;Denmark;Den;0;0;0;0;7000;7000
+168;Omonia Nicosia;Cyprus;Cyp;0;0;0;3000;4000;7000
+169;Maccabi Haifa;Israel;Isr;0;0;1500;2500;3000;7000
+170;Neftchi Baku;Azerbaijan;Azb;0;1000;2000;1500;2500;7000
+171;Shamrock Rovers;Ireland;Irl;500;1000;1500;1500;2500;7000
+172;Linfield Belfast;Northern Ireland;Nir;1000;0;2500;1500;2000;7000
+173;Buducnost Podgorica;Montenegro;Mon;1000;1000;1500;2000;1500;7000
+174;Zrinjski Mostar;Bosnia-Herzegovina;Bos;1000;2000;2000;2000;0;7000
+175;FC Zürich;Switzerland;Sui;0;7000;0;0;0;7000
+176;FC Sochi;Russia;Rus;0;0;0;0;2000;2000
+177;Rubin Kazan;Russia;Rus;0;0;0;0;2000;2000
+178;FK Rostov;Russia;Rus;0;0;0;2000;0;2000
+179;Dinamo Moscow;Russia;Rus;0;0;0;1500;0;1500
+180;Arsenal Tula;Russia;Rus;0;0;1500;0;0;1500
+181;FC Ufa;Russia;Rus;0;2500;0;0;0;2500
+182;Vojvodina Novi Sad;Serbia;Srb;250;0;0;2000;2000;4250
+183;Cukaricki Belgrade;Serbia;Srb;0;0;1500;0;2000;3500
+184;TSC Backa Topola;Serbia;Srb;0;0;0;1500;0;1500
+185;Radnicki Nis;Serbia;Srb;0;1500;1000;0;0;2500
+186;Spartak Subotica;Serbia;Srb;0;2000;0;0;0;2000
+187;Mladost Lucani;Serbia;Srb;250;0;0;0;0;250
+188;Sivasspor;Turkey;Tur;0;0;0;4000;2500;6500
+189;FC Luzern;Switzerland;Sui;500;2000;2000;0;2000;6500
+190;NK Domzale;Slovakia;Slo;1500;1500;1500;0;2000;6500
+191;Dynamo Brest;Belarus;Bls;500;2000;0;2500;1500;6500
+192;Dinamo Tbilisi;Georgia;Geo;0;1000;2000;2000;1500;6500
+193;DAC Dunajska Streda;Slovakia;Svk;0;1500;1500;2000;1500;6500
+194;FC Vaduz;Liechtenstein;Lie;500;1500;2000;1000;1500;6500
+195;Kolos Kovalivka;Ukraine;Ukr;0;0;0;2000;2000;4000
+196;Vorskla Poltava;Ukraine;Ukr;0;3000;0;0;1500;4500
+197;Desna Chernihiv;Ukraine;Ukr;0;0;0;2000;0;2000
+198;FC Oleksandriya;Ukraine;Ukr;1500;0;3000;0;0;4500
+199;FC Mariupol;Ukraine;Ukr;0;2000;2000;0;0;4000
+200;Olimpik Donetsk;Ukraine;Ukr;1000;0;0;0;0;1000
+201;Shakhtior Saligorsk;Belarus;Bls;250;1500;2000;1000;1500;6250
+202;Sutjeska Niksic;Montenegro;Mon;250;1500;2000;1000;1500;6250
+203;KI Klaksvik;Faroe Islands;Far;250;1000;1500;2500;1000;6250
+204;Charleroi;Belgium;Bel;0;0;0;2500;0;2500
+205;Zulte Waregem;Belgium;Bel;5000;0;0;0;0;5000
+206;KV Oostende;Belgium;Bel;1000;0;0;0;0;1000
+207;KF Laçi;Albania;Alb;0;1500;1000;1500;2000;6000
+208;Lech Poznan;Poland;Pol;1000;2000;0;3000;0;6000
+209;Servette FC Genève;Switzerland;Sui;0;0;0;1500;1500;3000
+210;FC Sankt Gallen;Switzerland;Sui;0;1500;0;2000;0;3500
+211;FC Thun;Switzerland;Sui;0;0;2000;0;0;2000
+212;FC Sion;Switzerland;Sui;1000;0;0;0;0;1000
+213;Connah's Quay;Wales;Wal;250;1000;1500;1500;1500;5750
+214;Aris Thessaloniki;Greece;Gre;0;0;2000;1500;1500;5000
+215;OFI Heraklion;Greece;Gre;0;0;0;1500;0;1500
+216;Atromitos FC;Greece;Gre;0;1500;2000;0;0;3500
+217;Asteras Tripolis;Greece;Gre;0;1500;0;0;0;1500
+218;Panathinaikos;Greece;Gre;1500;0;0;0;0;1500
+219;Panionios;Greece;Gre;1000;0;0;0;0;1000
+220;1.FC Slovácko;Czech Republic;Cze;0;0;0;0;1500;1500
+221;Slovan Liberec;Czech Republic;Cze;0;0;0;5000;0;5000
+222;Mladá Boleslav;Czech Republic;Cze;1000;0;2000;0;0;3000
+223;Sigma Olomouc;Czech Republic;Cze;0;2500;0;0;0;2500
+224;FC Zlin;Czech Republic;Cze;2000;0;0;0;0;2000
+225;Mura Murska Sobota;Slovakia;Slo;0;0;1000;2000;2500;5500
+226;Trabzonspor;Turkey;Tur;0;0;3000;0;2500;5500
+227;Lokomotiv Plovdiv;Bulgaria;Bul;0;0;2000;1500;2000;5500
+228;Hibernians FC;Malta;Mlt;1000;0;1000;1500;2000;5500
+229;FH Hafnarfjardar;Iceland;Isl;1500;1500;0;1000;1500;5500
+230;FC Santa Coloma;Andorra;And;500;1500;1500;500;1500;5500
+231;Valur Reykjavik;Iceland;Isl;500;2000;1500;0;1500;5500
+232;Progrès Niederkorn;Luxembourg;Lux;500;2000;1500;1500;0;5500
+233;Honvéd Budapest;Hungary;Hun;1000;1500;1500;1500;0;5500
+234;FK Kukësi;Albania;Alb;1000;2000;1000;1500;0;5500
+235;Vålerengens IF;Norway;Nor;0;0;0;0;1500;1500
+236;Viking Stavanger;Norway;Nor;0;0;0;1500;0;1500
+237;FK Haugesund;Norway;Nor;500;0;2000;0;0;2500
+238;SK Brann Bergen;Norway;Nor;500;0;1000;0;0;1500
+239;Sarpsborg 08;Norway;Nor;0;4000;0;0;0;4000
+240;Lillestrøm SK;Norway;Nor;0;1500;0;0;0;1500
+241;Odd Grenland;Norway;Nor;1000;0;0;0;0;1000
+242;AGF Aarhus;Denmark;Den;0;0;0;1500;1500;3000
+243;SønderjyskE;Denmark;Den;0;0;0;2000;0;2000
+244;Esbjerg fB;Denmark;Den;0;0;1500;0;0;1500
+245;FC Nordsjælland;Denmark;Den;0;2000;0;0;0;2000
+246;Lyngby BK;Denmark;Den;1000;0;0;0;0;1000
+247;Lokomotiva Zagreb;Croatia;Cro;0;0;0;2000;0;2000
+248;Alanyaspor;Turkey;Tur;0;0;0;2000;0;2000
+249;Yeni Malatyaspor;Turkey;Tur;0;0;2000;0;0;2000
+250;Akhisarspor;Turkey;Tur;0;3000;0;0;0;3000
+251;Konyaspor;Turkey;Tur;5000;0;0;0;0;5000
+252;AEL Limassol;Cyprus;Cyp;1000;0;1500;0;2000;4500
+253;FK Ventspils;Latvia;Lat;250;1500;2000;1500;0;5250
+254;FC Drita;Kosovo;Kos;0;1500;0;2000;1500;5000
+255;Ararat-Armenia;Armenia;Arm;0;0;2500;2500;0;5000
+256;FK Riteriai;Lithuania;Lit;1000;1500;1000;1500;0;5000
+257;Valletta FC;Malta;Mlt;500;1500;2000;1000;0;5000
+258;Dinamo Minsk;Belarus;Bls;1000;2000;1000;1000;0;5000
+259;AIK Stockholm;Sweden;Swe;1000;1500;2500;0;0;5000
+260;MS Ashdod;Israel;Isr;0;0;0;0;1500;1500
+261;Beitar Jerusalem;Israel;Isr;500;1000;0;1000;0;2500
+262;Bnei Yehuda;Israel;Isr;1000;0;2500;0;0;3500
+263;Hapoel Haifa;Israel;Isr;0;2000;0;0;0;2000
+264;Levadia Tallinn;Estonia;Est;250;1000;1000;1000;1500;4750
+265;B36 Torshavn;Faroe Islands;Far;250;1500;1000;2000;0;4750
+266;Hammarby IF;Sweden;Swe;0;0;0;1500;2500;4000
+267;IF Elfsborg;Sweden;Swe;0;0;0;0;2500;2500
+268;BK Häcken;Sweden;Swe;0;1500;1500;0;1500;4500
+269;Djurgårdens IF;Sweden;Swe;0;1500;0;2000;0;3500
+270;IFK Göteborg;Sweden;Swe;0;0;0;1500;0;1500
+271;IFK Norrköping;Sweden;Swe;500;0;2000;0;0;2500
+272;MSK Zilina;Slovakia;Svk;1000;0;0;1000;2500;4500
+273;Teuta Durrës;Albania;Alb;0;0;1000;1500;2000;4500
+274;Tobol Kustanai;Kazakhstan;Kaz;0;1500;1000;0;2000;4500
+275;Petrocub Hîncesti;Moldova;Mol;0;1000;1000;1000;1500;4500
+276;FK Shkupi;Macedonia;Mac;0;1000;1000;1000;1500;4500
+277;FK Liepaja;Latvia;Lat;500;1000;1500;0;1500;4500
+278;Europa FC;Gibraltar;Gib;500;500;1000;1500;1000;4500
+279;Kalju Nomme;Estonia;Est;500;1000;2000;1000;0;4500
+280;Viitorul Constanta;Romania;Rom;1500;1500;1500;0;0;4500
+281;FC Prishtina;Kosovo;Kos;250;1000;500;500;2000;4250
+282;Partizani Tirana;Albania;Alb;250;1000;1500;0;1500;4250
+283;Stjarnan FC;Iceland;Isl;250;1500;1500;0;1000;4250
+284;Pyunik Yerevan;Armenia;Arm;250;2000;2000;0;0;4250
+285;RFS Riga;Latvia;Lat;0;0;1000;1000;2000;4000
+286;Breidablik;Iceland;Isl;0;0;1000;1000;2000;4000
+287;HB Torshavn;Faroe Islands;Far;0;0;1500;500;2000;4000
+288;Kesla FK;Azerbaijan;Azb;500;1000;0;1000;1500;4000
+289;Gzira United;Malta;Mlt;0;1000;1500;0;1500;4000
+290;La Fiorita;San Marino;Sma;500;1500;500;500;1000;4000
+291;Skënderbeu Korçë;Albania;Alb;4000;0;0;0;0;4000
+292;Arda Kardzhali;Bulgaria;Bul;0;0;0;0;1500;1500
+293;Slavia Sofia;Bulgaria;Bul;0;1500;0;1000;0;2500
+294;Levski Sofia;Bulgaria;Bul;500;1000;1500;0;0;3000
+295;Botev Plovdiv;Bulgaria;Bul;1000;0;0;0;0;1000
+296;Dunav Ruse;Bulgaria;Bul;250;0;0;0;0;250
+297;Milsami Orhei;Moldova;Mol;250;1000;1000;0;1500;3750
+298;Coleraine;Northern Ireland;Nir;250;1000;0;1500;1000;3750
+299;NSI Runavik;Faroe Islands;Far;250;1000;500;1000;1000;3750
+300;Torpedo Kutaisi;Georgia;Geo;250;2500;1000;0;0;3750
+301;Újpest TE;Hungary;Hun;0;1500;0;0;2000;3500
+302;Kauno Zalgiris;Lithuania;Lit;0;0;1000;1000;1500;3500
+303;Siroki Brijeg;Bosnia-Herzegovina;Bos;500;1000;1000;0;1000;3500
+304;Piast Gliwice;Poland;Pol;0;0;1500;2000;0;3500
+305;Gabala FK;Azerbaijan;Azb;1000;1000;1500;0;0;3500
+306;Cork City;Ireland;Irl;500;2000;1000;0;0;3500
+307;Sepsi OSK;Romania;Rom;0;0;0;0;1500;1500
+308;FC Botosani;Romania;Rom;0;0;0;1500;0;1500
+309;Astra Giurgiu;Romania;Rom;1000;0;0;0;0;1000
+310;Dinamo Bucuresti;Romania;Rom;1000;0;0;0;0;1000
+311;Sumgayit FK;Azerbaijan;Azb;0;0;0;1000;1500;2500
+312;Sabail FK;Azerbaijan;Azb;0;0;1000;0;0;1000
+313;Zira FK;Azerbaijan;Azb;500;0;0;0;0;500
+314;Puskás Akadémia;Hungary;Hun;0;0;0;1000;1500;2500
+315;DVSC Debrecen;Hungary;Hun;0;0;1500;0;0;1500
+316;Vasas Budapest;Hungary;Hun;250;0;0;0;0;250
+317;Dinamo Batumi;Georgia;Geo;250;0;0;1000;2000;3250
+318;Bala Town;Wales;Wal;250;500;0;1500;1000;3250
+319;Tre Penne;San Marino;Sma;250;0;1500;500;1000;3250
+320;St Joseph's FC;Gibraltar;Gib;250;500;1000;500;1000;3250
+321;Crusaders Belfast;Northern Ireland;Nir;250;1500;1500;0;0;3250
+322;Chikhura Sachkhere;Georgia;Geo;250;1500;1500;0;0;3250
+323;Raków Czestochowa;Poland;Pol;0;0;0;0;2500;2500
+324;Slask Wroclaw;Poland;Pol;0;0;0;0;2000;2000
+325;Pogon Szczecin;Poland;Pol;0;0;0;0;1500;1500
+326;Cracovia Kraków;Poland;Pol;0;0;1000;1000;0;2000
+327;Lechia Gdansk;Poland;Pol;0;0;1500;0;0;1500
+328;Jagiellonia Bialystok;Poland;Pol;500;2000;0;0;0;2500
+329;Górnik Zabrze;Poland;Pol;0;1500;0;0;0;1500
+330;Arka Gdynia;Poland;Pol;1000;0;0;0;0;1000
+331;Shakhtyor Karaganda;Kazakhstan;Kaz;0;0;0;0;2500;2500
+332;Kaysar Kyzylorda;Kazakhstan;Kaz;0;0;0;1500;0;1500
+333;Ordabasy Shymkent;Kazakhstan;Kaz;250;0;1500;1000;0;2750
+334;Irtysh Pavlodar;Kazakhstan;Kaz;500;1000;0;0;0;1500
+335;MFK Ruzomberok;Slovakia;Svk;1000;0;1000;1000;0;3000
+336;AS Trencín;Slovakia;Svk;500;2500;0;0;0;3000
+337;Bohemians Dublin;Ireland;Irl;0;0;0;1000;2000;3000
+338;FK Borac Banja Luka;Bosnia-Herzegovina;Bos;0;0;0;1500;1500;3000
+339;Inter Club d'Escaldes;Andorra;And;0;0;0;1500;1500;3000
+340;Inter Turku;Finland;Fin;0;0;1000;1000;1000;3000
+341;Urartu FC;Armenia;Arm;0;1000;1000;0;1000;3000
+342;NK Celje;Slovakia;Slo;0;0;0;2000;0;2000
+343;KR Reykjavik;Iceland;Isl;500;0;1000;1500;0;3000
+344;Tre Fiori;San Marino;Sma;0;1000;500;1500;0;3000
+345;Saburtalo Tbilisi;Georgia;Geo;0;0;2000;1000;0;3000
+346;Zeljeznicar Sarajevo;Bosnia-Herzegovina;Bos;500;1500;0;1000;0;3000
+347;Spartaks Jurmala;Latvia;Lat;1000;2000;0;0;0;3000
+348;Rudar Velenje;Slovakia;Slo;0;1500;0;0;0;1500
+349;Vardar Skopje;Macedonia;Mac;2000;1000;0;0;0;3000
+350;Nova Gorica;Slovakia;Slo;500;0;0;0;0;500
+351;KF Tirana;Albania;Alb;250;0;0;2500;0;2750
+352;Balzan FC;Malta;Mlt;250;1500;1000;0;0;2750
+353;Honka Espoo;Finland;Fin;0;0;0;1000;1500;2500
+354;Torpedo Zhodino;Belarus;Bls;0;0;0;0;1500;1500
+355;Sfântul Gheorghe;Moldova;Mol;0;0;0;1500;1000;2500
+356;Sileks Kratovo;Macedonia;Mac;0;0;0;1500;1000;2500
+357;UE Engordany;Andorra;And;0;1000;1000;500;0;2500
+358;OFK Titograd;Montenegro;Mon;500;1000;1000;0;0;2500
+359;FC Vitebsk;Belarus;Bls;0;0;1000;0;0;1000
+360;Víkingur;Faroe Islands;Far;1000;1500;0;0;0;2500
+361;Folgore;San Marino;Sma;250;500;0;0;1500;2250
+362;Sant Julià;Andorra;And;250;500;500;0;1000;2250
+363;Floriana;Malta;Mlt;250;0;0;2000;0;2250
+364;Zeta Golubovci;Montenegro;Mon;250;0;1000;1000;0;2250
+365;Derry City;Ireland;Irl;250;1000;0;1000;0;2250
+366;Dinamo-Auto Tiraspol;Moldova;Mol;0;0;0;1000;0;1000
+367;Speranta Nisporeni;Moldova;Mol;0;0;1000;0;0;1000
+368;Zaria Balti;Moldova;Mol;500;1000;0;0;0;1500
+369;Dacia Chisinau;Moldova;Mol;250;0;0;0;0;250
+370;Velez Mostar;Bosnia-Herzegovina;Bos;0;0;0;0;2000;2000
+371;Larne FC;Northern Ireland;Nir;0;0;0;0;2000;2000
+372;Birkirkara;Malta;Mlt;0;500;0;0;1500;2000
+373;FK Panevezys;Lithuania;Lit;0;0;0;0;1500;1500
+374;Valmieras FK;Latvia;Lat;0;0;0;1000;1000;2000
+375;FC Noah;Armenia;Arm;0;0;0;1000;1000;2000
+376;Glentoran;Northern Ireland;Nir;0;0;0;1000;1000;2000
+377;Paide Linnameeskond;Estonia;Est;0;0;0;1000;1000;2000
+378;Racing Union Luxembourg;Luxembourg;Lux;0;1000;0;0;1000;2000
+379;Lokomotivi Tbilisi;Georgia;Geo;0;0;0;2000;0;2000
+380;Ilves Tampere;Finland;Fin;0;1000;0;1000;0;2000
+381;Cliftonville;Northern Ireland;Nir;0;1000;1000;0;0;2000
+382;Trans Narva;Estonia;Est;0;1000;1000;0;0;2000
+383;Samtredia;Georgia;Geo;1000;1000;0;0;0;2000
+384;Stumbras Kaunas;Lithuania;Lit;0;1000;0;0;0;1000
+385;Atlantas Klaipeda;Lithuania;Lit;250;0;0;0;0;250
+386;Radnik Bijeljina;Bosnia-Herzegovina;Bos;0;0;1000;0;0;1000
+387;RoPS Rovaniemi;Finland;Fin;0;0;1000;0;0;1000
+388;FC Lahti;Finland;Fin;0;1000;0;0;0;1000
+389;IFK Mariehamn;Finland;Fin;1000;0;0;0;0;1000
+390;VPS Vaasa;Finland;Fin;500;0;0;0;0;500
+391;SJK Seinäjoki;Finland;Fin;250;0;0;0;0;250
+392;Swift Hesperange;Luxembourg;Lux;0;0;0;0;1000;1000
+393;Differdange 03;Luxembourg;Lux;250;0;0;1000;0;1250
+394;Union Titus Pétange;Luxembourg;Lux;0;0;0;1000;0;1000
+395;Jeunesse d'Esch;Luxembourg;Lux;0;0;1500;0;0;1500
+396;FK Jelgava;Latvia;Lat;250;0;0;0;0;250
+397;KF Llapi;Kosovo;Kos;0;0;0;0;1000;1000
+398;SC Gjilani;Kosovo;Kos;0;0;0;1000;0;1000
+399;Feronikeli;Kosovo;Kos;0;0;1500;0;0;1500
+400;Trepça'89;Kosovo;Kos;500;0;0;0;0;500
+401;Ararat Yerevan;Armenia;Arm;0;0;0;0;1500;1500
+402;Sligo Rovers;Ireland;Irl;0;0;0;0;1000;1000
+403;Shirak Gyumri;Armenia;Arm;250;0;0;1000;0;1250
+404;St. Patrick's Athletic;Ireland;Irl;0;0;1000;0;0;1000
+405;Gandzasar Kapan;Armenia;Arm;250;1000;0;0;0;1250
+406;Ballymena United;Northern Ireland;Nir;250;0;1000;0;0;1250
+407;Glenavon;Northern Ireland;Nir;0;1000;0;0;0;1000
+408;Vllaznia Shkodër;Albania;Alb;0;0;0;0;1500;1500
+409;Luftëtari Gjirokastër;Albania;Alb;0;1000;0;0;0;1000
+410;Renova Dzepciste;Macedonia;Mac;0;0;0;1500;0;1500
+411;Rabotnicki Skopje;Macedonia;Mac;500;1000;0;0;0;1500
+412;FCI Tallinn;Estonia;Est;500;0;0;0;0;500
+413;Dila Gori;Georgia;Geo;0;0;0;0;1000;1000
+414;FC Struga;Macedonia;Mac;0;0;0;0;1000;1000
+415;Gagra Tbilisi;Georgia;Geo;0;0;0;0;1000;1000
+416;Mosta FC;Malta;Mlt;0;0;0;0;1000;1000
+417;Sirens FC;Malta;Mlt;0;0;0;1000;0;1000
+418;Akademija Pandev;Macedonia;Mac;0;0;1000;0;0;1000
+419;Makedonija GjP;Macedonia;Mac;0;0;1000;0;0;1000
+420;Pelister Bitola;Macedonia;Mac;250;0;0;0;0;250
+421;Newtown;Wales;Wal;0;0;0;0;1000;1000
+422;Barry Town;Wales;Wal;0;0;500;500;0;1000
+423;Cardiff MU;Wales;Wal;0;0;500;0;0;500
+424;Cefn Druids;Wales;Wal;0;500;0;0;0;500
+425;Bangor City;Wales;Wal;250;0;0;0;0;250
+426;Mons Calpe;Gibraltar;Gib;0;0;0;0;1000;1000
+427;Vikingur Reykjavik;Iceland;Isl;0;0;0;1000;0;1000
+428;IBV Vestmannaeyjar;Iceland;Isl;0;1000;0;0;0;1000
+429;Decic Tuzi;Montenegro;Mon;0;0;0;0;1000;1000
+430;FK Podgorica;Montenegro;Mon;0;0;0;0;1000;1000
+431;Iskra Danilovgrad;Montenegro;Mon;0;0;0;1000;0;1000
+432;Rudar Pljevlja;Montenegro;Mon;0;1000;0;0;0;1000
+433;UE Santa Coloma;Andorra;And;250;0;0;0;0;250
